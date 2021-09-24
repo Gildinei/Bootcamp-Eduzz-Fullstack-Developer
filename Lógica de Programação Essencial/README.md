@@ -2,7 +2,7 @@
 Repositório para armazenamento do exercícios e anotações das aulas realizadas no **Lógica de Programação Essencial**.
 
 # 1. Entendendo o que é lógica
-Programar vai além de desenvolver códigos, é necessário entender quais problemas serão resolvidos, qual a lógica para solucionar tal problema.
+Programar vai além de desenvolver códigos, é necessário entender quais problemas serão resolvidos e qual a lógica adequada para solucionar tal problema.
 
 ## O que é lógica?
 O dicionário Aurélio descreve lógica como, **"coerência de raciocínio, de ideias"** ou como, **"sequência coerente, regular e necessária de acontecimentos, coisas"**.
