@@ -1,7 +1,7 @@
 # Lógica de Programação Essencial
 Repositório para armazenamento do exercícios e anotações das aulas realizadas no **Lógica de Programação Essencial**.
 
-## Entendendo o que é lógica
+# 1. Entendendo o que é lógica
 Programar vai além de desenvolver códigos, é necessário entender quais problemas serão resolvidos, qual a lógica para solucionar tal problema.
 
 ## O que é lógica?
@@ -13,10 +13,10 @@ O dicionário Aurélio descreve lógica como, **"coerência de raciocínio, de i
 ## Metacognição
 Metacognição significa "**Pensar como você pensa**".
 
-## Abstração
+### Abstração
 Podemos entender a abstração como "**a habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando características menos importantes ou acidentais**", ou seja, outras formas de resolver o mesmo problema.
 
-## Exercício
+### Exercício
 Crie um mapa mental para resolver um determinado problema, por exemplo, calcular a média aritmética de 4 notas, sabendo que as notas são as seguintes:
 
 Nota 1: 5
