@@ -66,7 +66,6 @@ Nota 4: 3
 </table>
 
 # 2. O que são algoritmos e pseudocódigo
-
 ## O que é um algoritmo?
 Podemos definir um algoritmo como "**uma sequência de passos finitos que resolvem um problema**".
 
@@ -83,6 +82,39 @@ Um bom exemplo de algoritmo é uma rotina matinal:
         ...
     Fim-dia
 
-# O que é um pseudocódigo?
-
+## O que é um pseudocódigo?
 Pseudocódigo é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa, ou seja, em português a quem o escreve, de forma a ser entendida por qualquer pessoa).
+
+# 3. Aprendendo fluxograma, variáveis e constantes
+## O que é um Fluxograma?
+Fluxograma é uma ferramenta utilizada para representar graficamente um algoritmo, isto é, uma sequência lógica  e coerente do fluxo de dados.
+
+![Fluxograma](/assets/fluxograma.png)
+
+Também podemos definir fluxograma como, "**Um tipo de diagrama que pode ser entendido como uma representação esquemática de um processo. Podemos entendê-lo, na prática, como a documentação dos passos necessários para a execução de um processo qualquel**".
+
+![Fluxograma](/assets/fluxograma2.png)
+
+## Diagrama de blocos
+Para construir um fluxograma, podemos utilizar o diagrama de bloco:
+
+![Diagrama de Bloco](/assets/diagrama_bloco.png)
+
+## O que são variáveis?
+"**Na programação, uma variável é um objeto (uma posição, frequentemente localizada na memória do computador) capaz de guardar e representar um valor ou expressão**". O valor guardado nesta variável pode ser alterado ao decorrer da execução do programa. Desta forma, uma variável que recebeu, por exemplo, o valor 7, pode posteriormente receber 8 como valor.
+
+## O que são constantes?
+Na programação, uma constante tem a mesma função que uma variável, apenas com as seguintes diferença:
+.Seu valor não pode ser alterado na decorrer da execução do programa;
+.Deve, obrigatóriamente, receber um valor no momento de inicialização;
+
+## Tipos de dados?
+As variáveis e constantes podem receber basicamente quatro tipos de dados:
+--Numéricos;
+--Caracteres;
+--Alfanuméricos
+--Lógicos;
+
+## Exercício
+### Calcular médio
+![Calcular Média](/assets/calcula_media.png)
