@@ -64,3 +64,25 @@ Nota 4: 3
         <td>6,25</td>
     </tr>
 </table>
+
+# 2. O que são algoritmos e pseudocódigo
+
+## O que é um algoritmo?
+Podemos definir um algoritmo como "**uma sequência de passos finitos que resolvem um problema**".
+
+Um bom exemplo de algoritmo é uma rotina matinal:
+
+    Início-dia
+        Acordar
+        Levantar da cama
+        Trocar de roupa
+        Escovar os dentes
+        Tomar café
+        Escovar os dentes
+        Ir trabalhar
+        ...
+    Fim-dia
+
+# O que é um pseudocódigo?
+
+Pseudocódigo é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa, ou seja, em português a quem o escreve, de forma a ser entendida por qualquer pessoa).
