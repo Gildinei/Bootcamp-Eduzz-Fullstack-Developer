@@ -1,11 +1,5 @@
-function sum(a, b) {
-    let value = 0;
-
-    for (var i = 0; i < arguments.length; i++) {
-        value += arguments[i];
-    };
-
-    return value;
+function sum(...args) {
+    return args.reduce((accumulator, value) => accumulator + value, 0);
 };
 
 console.log(sum(5, 5, 5, 2, 3));
