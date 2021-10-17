@@ -25,4 +25,3 @@ const simpleFunc = async () => {
 simpleFunc().then(data => {
     console.log(data);
 });
-
