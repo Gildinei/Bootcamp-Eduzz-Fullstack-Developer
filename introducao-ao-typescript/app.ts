@@ -14,10 +14,22 @@ const animal: IAnimal = {
     executeGrow: volume => `${volume}dB`,
 };
 
-animal.executeGrow(50);
+type IPessoa = {
+    nome: string;
+    sobrenome: string;
+    idade: number;
+    sexo: 'Masculino' | 'Feminino';
+    altura: number;
+    peso: number;
+    online: true | false;
+};
 
-const felino: IFelino = {
-    name: 'Leão',
-    type: 'terrestre',
-    visaoNoturna: true,
+const pessoa: IPessoa = {
+    nome: 'Gildinei',
+    sobrenome: 'Anunciação',
+    idade: 30,
+    sexo: "Masculino",
+    altura: 1.83,
+    peso: 110,
+    online: true,
 };
