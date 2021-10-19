@@ -37,7 +37,13 @@ const pessoa: IPessoa = {
 
 };
 
-inputElement.addEventListener('input', (event)=> {
+inputElement.addEventListener('input', (event) => {
     const input = event.currentTarget as HTMLInputElement;
     console.log(input.value);
 });
+
+function adicionaApendiceALista<T>(array: T[], valor: T) {
+    return array.map(() => valor);
+};
+
+adicionaApendiceALista([1, 2, 3], 4);
