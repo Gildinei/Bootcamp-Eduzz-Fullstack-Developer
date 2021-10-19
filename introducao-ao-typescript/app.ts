@@ -1,3 +1,5 @@
+const inputElement = document.getElementById('input') as HTMLInputElement;
+
 interface IAnimal {
     name: string;
     type: 'terrestre' | 'aquático';
@@ -21,7 +23,7 @@ type IPessoa = {
     sexo: 'Masculino' | 'Feminino';
     altura: number;
     peso: number;
-    online: true | false;
+    online: boolean;
 };
 
 const pessoa: IPessoa = {
@@ -32,4 +34,10 @@ const pessoa: IPessoa = {
     altura: 1.83,
     peso: 110,
     online: true,
+
 };
+
+inputElement.addEventListener('input', (event)=> {
+    const input = event.currentTarget as HTMLInputElement;
+    console.log(input.value);
+});
